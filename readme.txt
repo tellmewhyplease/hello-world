@@ -1,2 +1,2 @@
 git is a version control system
-git si a fre software.
+git is a fre software.
