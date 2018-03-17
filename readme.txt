@@ -4,4 +4,7 @@ git tracks changes of files
 
 create branch dev
 
-Creating a new branch is quick & simple.
+/usr/bin/bash: wq: command not found
+
+so bad ,i forget ot how to escape vim , hoe can i do?
+
