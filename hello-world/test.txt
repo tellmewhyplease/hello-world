@@ -7,3 +7,5 @@ test myself
 to pass on local
 
 write somthing to remote
+
+ok ,i'm talking to ramote
